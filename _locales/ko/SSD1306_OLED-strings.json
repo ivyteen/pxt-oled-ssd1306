@@ -1,0 +1,14 @@
+{
+  "OLED.clear|block": "OLED 표시 내용 지우기",
+  "OLED.drawLine|block": "선 그리기|시작 x: $x0|y: $y0 |끝 x: $x1|y: $y1",
+  "OLED.drawLoading|block": "로딩 바를 $percent 퍼센트 표시",
+  "OLED.drawRectangle|block": "사각형 그리기|시작 x: $x0|y: $y0 |끝 x: $x1|y: $y1",
+  "OLED.init|block": "OLED 초기화 (폭 $width 높이 $height)",
+  "OLED.newLine|block": "줄 바꿈",
+  "OLED.writeNumNewLine|block": "숫자 출력 $n",
+  "OLED.writeNum|block": "(줄 바꾸지 않고) 숫자 출력 $n",
+  "OLED.writeStringNewLine|block": "문자열 출력 $str",
+  "OLED.writeString|block": "(줄 바꾸지 않고) 문자열 출력 $str",
+  "{id:category}Math": "Math",
+  "{id:category}OLED": "OLED 출력"
+}
